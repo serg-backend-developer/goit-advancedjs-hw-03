@@ -4,7 +4,7 @@ import iziToast from 'izitoast/dist/js/iziToast.min.js';
 
 import 'modern-normalize/modern-normalize.css';
 import 'izitoast/dist/css/iziToast.min.css';
-import '../css/styles.css';
+import '../css/common.css';
 
 const elements = {
   breedsList: document.querySelector('.breed-select'),
