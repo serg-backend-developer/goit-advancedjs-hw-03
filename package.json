@@ -16,6 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "@vimeo/player": "^2.20.1",
+    "axios": "^1.7.2",
     "flatpickr": "^4.6.13",
     "izitoast": "^1.4.0",
     "lodash.throttle": "^4.1.1",
